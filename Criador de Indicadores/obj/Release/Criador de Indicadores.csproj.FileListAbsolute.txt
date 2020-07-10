@@ -1,0 +1,14 @@
+E:\Programação\AspCore\Criador de Indicadores\Criador de Indicadores\bin\Release\Criador de Indicadores.exe.config
+E:\Programação\AspCore\Criador de Indicadores\Criador de Indicadores\bin\Release\Criador de Indicadores.exe
+E:\Programação\AspCore\Criador de Indicadores\Criador de Indicadores\bin\Release\Criador de Indicadores.pdb
+E:\Programação\AspCore\Criador de Indicadores\Criador de Indicadores\obj\Release\Criador de Indicadores.csproj.GenerateResource.cache
+E:\Programação\AspCore\Criador de Indicadores\Criador de Indicadores\obj\Release\Criador de Indicadores.exe
+E:\Programação\AspCore\Criador de Indicadores\Criador de Indicadores\obj\Release\Criador de Indicadores.pdb
+E:\Programação\AspCore\Criador de Indicadores\Criador de Indicadores\obj\Release\Criador_de_Indicadores.Menu.resources
+E:\Programação\AspCore\Criador de Indicadores\Criador de Indicadores\obj\Release\Criador_de_Indicadores.Creator.resources
+E:\Programação\AspCore\Criador de Indicadores\Criador de Indicadores\obj\Release\Criador_de_Indicadores.Calculate.resources
+E:\Programação\AspCore\Criador de Indicadores\Criador de Indicadores\bin\Release\Criador de Indicadores.exe.manifest
+E:\Programação\AspCore\Criador de Indicadores\Criador de Indicadores\bin\Release\Criador de Indicadores.application
+E:\Programação\AspCore\Criador de Indicadores\Criador de Indicadores\obj\Release\Criador de Indicadores.csprojAssemblyReference.cache
+E:\Programação\AspCore\Criador de Indicadores\Criador de Indicadores\obj\Release\Criador de Indicadores.exe.manifest
+E:\Programação\AspCore\Criador de Indicadores\Criador de Indicadores\obj\Release\Criador de Indicadores.application
